@@ -9,7 +9,7 @@
 
 
 ## Live Demo
-> [Globe App](https://baayeh.github.io/second-capstone/)
+> [Payment Voucher App](https://payment-voucher.vercel.app/)
 
 
 ## Getting Started
