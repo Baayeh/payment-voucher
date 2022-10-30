@@ -1,6 +1,10 @@
 # Payment Voucher App
  An appliaction that generates an invoice for items purchased
 
+ ### Screenshot
+
+![](./screenshot.PNG)
+
 ## Built With
 
 - Reactjs
