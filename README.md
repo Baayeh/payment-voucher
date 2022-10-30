@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Payment Voucher App
  An appliaction that generates an invoice for items purchased
 
@@ -20,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the repo to your local environment
 - Run npm install to install all dependencies
-- Open the index.html file with your favorite browser.
+- Run npm run dev to open in your browser
 - Modify to your taste with your preferred text editor
 - Enjoy :hugs:
 
